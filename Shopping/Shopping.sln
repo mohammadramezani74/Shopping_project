@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShopManagement", "ShopManagement", "{B7A3E7F3-49E7-43D5-AE73-F802856B704F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Domain", "ShopManagement.Domain\ShopManagement.Domain.csproj", "{8BC0E286-B04A-419F-8262-686CA69A3F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameWork", "FrameWork\FrameWork.csproj", "{E44F39E7-B3F5-4757-AD18-C97FCD504C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC0E286-B04A-419F-8262-686CA69A3F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC0E286-B04A-419F-8262-686CA69A3F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC0E286-B04A-419F-8262-686CA69A3F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC0E286-B04A-419F-8262-686CA69A3F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44F39E7-B3F5-4757-AD18-C97FCD504C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44F39E7-B3F5-4757-AD18-C97FCD504C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44F39E7-B3F5-4757-AD18-C97FCD504C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44F39E7-B3F5-4757-AD18-C97FCD504C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BC0E286-B04A-419F-8262-686CA69A3F1C} = {B7A3E7F3-49E7-43D5-AE73-F802856B704F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BD28EA-9957-41D4-AA1C-30AF2E0EFDAB}
+	EndGlobalSection
+EndGlobal
