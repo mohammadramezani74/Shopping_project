@@ -1,0 +1,17 @@
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.deps.json
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.dll
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.pdb
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\FrameWork.dll
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\FrameWork.pdb
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfo.cs
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CopyComplete
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.dll
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\refint\ShopManagement.Domain.dll
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb
+F:\e1\shppingProject\Shopping\ShopManagement.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll

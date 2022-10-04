@@ -1,0 +1,12 @@
+F:\e1\shppingProject\Shopping\FrameWork\bin\Debug\net5.0\FrameWork.deps.json
+F:\e1\shppingProject\Shopping\FrameWork\bin\Debug\net5.0\FrameWork.dll
+F:\e1\shppingProject\Shopping\FrameWork\bin\Debug\net5.0\FrameWork.pdb
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.csproj.AssemblyReference.cache
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.AssemblyInfoInputs.cache
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.AssemblyInfo.cs
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.csproj.CoreCompileInputs.cache
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.dll
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\refint\FrameWork.dll
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.pdb
+F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\ref\FrameWork.dll
