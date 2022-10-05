@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "projectName": "ShopManagement.Application",
-      "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
+      "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-      "outputPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,11 +95,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-              "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+            "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+              "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             },
-            "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }

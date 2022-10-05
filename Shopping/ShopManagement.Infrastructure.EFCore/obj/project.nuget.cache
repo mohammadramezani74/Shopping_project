@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2lQeaOcGxMaT/7niMzQsfgwpzsgh7CKiwrkQmcxTzWkXtDJj63GwwNthXa53TaawEn5e7u5cJh2qVCOGphQuVg==",
+  "dgSpecHash": "TpoM1gYuvMsCUb7tEMQBnNnqQI0G5yj5Wnql6irzECbgFVl+Fu38Kb/sA6oIOoQ1frtFqtbsgdlPqaRo+dMhjg==",
   "success": true,
-  "projectFilePath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alireza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj": {}
+    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj": {}
   },
   "projects": {
-    "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj": {
+    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj",
+        "projectUniqueName": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj",
         "projectName": "FrameWork",
-        "projectPath": "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj",
+        "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj",
         "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\e1\\shppingProject\\Shopping\\FrameWork\\obj\\",
+        "outputPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj": {
-                "projectPath": "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj"
+              "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {
+                "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj": {
+    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
         "projectName": "ShopManagement.Application",
-        "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
+        "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\ShopManagement.Application.csproj",
         "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application\\obj\\",
+        "outputPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -151,11 +151,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },
-              "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -189,14 +189,14 @@
         }
       }
     },
-    "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
-        "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -216,11 +216,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj": {
-                "projectPath": "F:\\e1\\shppingProject\\Shopping\\FrameWork\\FrameWork.csproj"
+              "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {
+                "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj"
               },
-              "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\e1\\shppingProject\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
