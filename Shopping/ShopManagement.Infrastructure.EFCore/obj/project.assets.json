@@ -1767,6 +1767,9 @@
       "FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17"
+        },
         "compile": {
           "bin/placeholder/FrameWork.dll": {}
         },
