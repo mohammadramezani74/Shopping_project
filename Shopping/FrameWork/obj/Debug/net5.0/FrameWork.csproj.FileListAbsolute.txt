@@ -10,3 +10,15 @@ F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.dll
 F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\refint\FrameWork.dll
 F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.pdb
 F:\e1\shppingProject\Shopping\FrameWork\obj\Debug\net5.0\ref\FrameWork.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\bin\Debug\net5.0\FrameWork.deps.json
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\bin\Debug\net5.0\FrameWork.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\bin\Debug\net5.0\FrameWork.pdb
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.AssemblyInfo.cs
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\refint\FrameWork.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\FrameWork.pdb
+C:\Users\asus\source\repos\Shopping_project\Shopping\FrameWork\obj\Debug\net5.0\ref\FrameWork.dll

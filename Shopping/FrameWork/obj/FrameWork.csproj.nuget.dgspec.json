@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {}
+    "C:\\Users\\asus\\source\\repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {
+    "C:\\Users\\asus\\source\\repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj",
         "projectName": "FrameWork",
-        "projectPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj",
-        "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alireza\\Source\\Repos\\Shopping_project\\Shopping\\FrameWork\\obj\\",
+        "projectPath": "C:\\Users\\asus\\source\\repos\\Shopping_project\\Shopping\\FrameWork\\FrameWork.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asus\\source\\repos\\Shopping_project\\Shopping\\FrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
