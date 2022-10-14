@@ -10,8 +10,10 @@ namespace FrameWork.Domain
     public interface IRepository<TKey,T> where T : class
     {
         T Get(TKey id);
+
         List<T> Get();
         void Create(T entity);
+        void Delete(T entity);   
         bool Exist(Expression<Func<T,bool>> expression);
         void Savechanges();
     }

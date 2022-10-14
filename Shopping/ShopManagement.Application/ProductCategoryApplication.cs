@@ -2,6 +2,7 @@
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductActegoryAgg;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ShopManagement.Application
 {
@@ -50,6 +51,16 @@ namespace ShopManagement.Application
            return _productCategoryRepository.GetDetails(Id);
         
                 }
+
+        public async Task RemoveAsync(long id)
+        {
+           var currentEntity=_productCategoryRepository.Get(id);
+            if (currentEntity != null)
+                _productCategoryRepository.Delete(currentEntity);
+            _productCategoryRepository.Savechanges();
+
+        }
+
         public List<ProductCategoryViewModel> search(ProductCategorySearchModel model)
         {
             return _productCategoryRepository.Search(model);
