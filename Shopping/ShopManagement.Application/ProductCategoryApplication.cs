@@ -19,7 +19,7 @@ namespace ShopManagement.Application
         {
             var Operation = new OperationResult();
             if (_productCategoryRepository.Exist(x=>x.Name==command.Name))
-                return Operation.Failed("امکان ثبت رکورد تکراری وجود ندارد لطفا مجدد تلاش کنید");
+                return Operation.Failed(ApplicationMessages.DuplicatedRecord);
           var Slug = command.Slug.GenerateSlug();
             var ProductCategory = new ProductCategory(command.Name, command.Description
                 , command.Picture, command.PictureAlt, command.PictureTitle, command.KeyWords,
@@ -34,7 +34,7 @@ namespace ShopManagement.Application
         {
             var Operation=new OperationResult();
             var productCategory = _productCategoryRepository.Get(command.Id);
-            if (productCategory == null) return Operation.Failed("رکورد با اطلاعات درخواست شده یافت نشد لطفا مجدد تلاش بفرمایید");
+            if (productCategory == null) return Operation.Failed(ApplicationMessages.RecordNotFound);
             if(_productCategoryRepository.Exist(x=>x.Name==command.Name && x.Id!=command.Id))
                 return Operation.Failed("امکان ویرایش رکورد تکراری وجود ندارد لطفا مجدد تلاش کنید");
             var Slug = command.Slug.GenerateSlug();
