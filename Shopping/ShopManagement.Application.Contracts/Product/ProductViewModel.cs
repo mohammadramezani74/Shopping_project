@@ -14,5 +14,6 @@ namespace ShopManagement.Application.Contracts.Product
         public string Code { get; set; }
         public double UnitPrice { get; set; }
         public string CategoryName { get; set; }
+        public long CategoryId { get; set; }
     }
 }

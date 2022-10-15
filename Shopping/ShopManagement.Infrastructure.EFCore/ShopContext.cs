@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShopManagement.Domain.ProductActegoryAgg;
+using ShopManagement.Domain.ProductAgg;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace ShopManagement.Infrastructure.EFCore
                 
         }
         public DbSet<ProductCategory> productCategories { get; set; }
+        public DbSet<Product> products { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             var assembly=typeof(ProductCategory).Assembly;
