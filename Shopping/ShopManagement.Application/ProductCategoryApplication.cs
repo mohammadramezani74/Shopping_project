@@ -52,6 +52,11 @@ namespace ShopManagement.Application
         
                 }
 
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _productCategoryRepository.GetProductCategories();
+        }
+
         public async Task RemoveAsync(long id)
         {
            var currentEntity=_productCategoryRepository.Get(id);

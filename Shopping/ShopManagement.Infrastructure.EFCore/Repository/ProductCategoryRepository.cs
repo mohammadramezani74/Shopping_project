@@ -1,4 +1,5 @@
 ﻿using FrameWork.Infrastructure;
+using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductActegoryAgg;
 using System;
@@ -54,6 +55,14 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 query = query.Where(x => x.Name.Contains( model.Name));
             }
             return query.OrderByDescending(x=>x.Id).ToList();
+        }
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _context.productCategories.Select(x => new ProductCategoryViewModel
+            {
+                Id = x.Id,
+                Name = x.Name,
+            }).ToList();
         }
     }
 }

@@ -11,6 +11,7 @@ namespace ShopManagement.Application.Contracts.ProductCategory
         OperationResult Edit(EditProductCategory command);
         EditProductCategory GetDetails(long Id);
         List<ProductCategoryViewModel> search(ProductCategorySearchModel model);
+        List<ProductCategoryViewModel> GetProductCategories();
         Task RemoveAsync(long id);
     }
 }

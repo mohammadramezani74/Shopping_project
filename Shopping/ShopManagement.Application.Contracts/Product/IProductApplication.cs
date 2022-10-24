@@ -1,6 +1,7 @@
 ﻿
 
 using FrameWork.Application;
+using ShopManagement.Application.Contracts.ProductCategory;
 using System.Collections.Generic;
 
 namespace ShopManagement.Application.Contracts.Product

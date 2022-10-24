@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShopManagement.Domain.ProductActegoryAgg;
 using ShopManagement.Domain.ProductAgg;
+using ShopManagement.Infrastructure.EFCore.Mapping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +20,7 @@ namespace ShopManagement.Infrastructure.EFCore
         public DbSet<Product> products { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            var assembly=typeof(ProductCategory).Assembly;
+            var assembly=typeof(ProductCategoryMapping).Assembly;
             modelBuilder.ApplyConfigurationsFromAssembly(assembly);
             base.OnModelCreating(modelBuilder);
         }

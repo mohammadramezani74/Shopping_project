@@ -41,19 +41,22 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x=>x.Id==Id);
         }
 
+     
+
         public List<ProductViewModel> Search(ProductSearchModel searchModel)
         {
             var query = _shopContext.products.AsNoTracking()
                 .Include(x => x.Category).Select(_ => new ProductViewModel
                 {
                     CategoryName = _.Category.Name,
-                    CategoryId= _.Category.Id,
+                    CategoryId = _.Category.Id,
                     Code = _.Code,
                     Id = _.Id,
                     Name = _.Name,
                     Picture = _.Picture,
                     UnitPrice = _.UnitPrice,
-                });
+                    CreationDate = _.CreationDate.ToString()
+                }) ;
             if (string.IsNullOrEmpty(searchModel.Name))
             {
                 query=query.Where(x=>x.Name.Contains(searchModel.Name));

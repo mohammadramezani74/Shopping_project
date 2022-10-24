@@ -1,4 +1,5 @@
 ﻿using FrameWork.Domain;
+using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
 using System;
 using System.Collections.Generic;
@@ -11,7 +12,7 @@ namespace ShopManagement.Domain.ProductActegoryAgg
 {
     public interface IProductCategoryRepository:IRepository<long, ProductCategory>
     {
-     
+        List<ProductCategoryViewModel> GetProductCategories();
         EditProductCategory GetDetails(long id);
         List<ProductCategoryViewModel> Search(ProductCategorySearchModel model);
        
