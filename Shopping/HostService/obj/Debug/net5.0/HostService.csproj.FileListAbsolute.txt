@@ -170,3 +170,7 @@ C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\obj\Debug\net5.
 C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Create.cshtml.g.cs
 C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Edit.cshtml.g.cs
 C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Index.cshtml.g.cs
+C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asus\source\repos\Shopping_project\Shopping\HostService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

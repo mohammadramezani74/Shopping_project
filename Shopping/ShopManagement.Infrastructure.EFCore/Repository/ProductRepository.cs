@@ -55,13 +55,14 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     Name = _.Name,
                     Picture = _.Picture,
                     UnitPrice = _.UnitPrice,
-                    CreationDate = _.CreationDate.ToString()
+                    CreationDate = _.CreationDate.ToString(),
+                    IsInStuck=_.IsInStock
                 }) ;
-            if (string.IsNullOrEmpty(searchModel.Name))
+            if (!string.IsNullOrEmpty(searchModel.Name))
             {
                 query=query.Where(x=>x.Name.Contains(searchModel.Name));
             }
-            if (string.IsNullOrEmpty(searchModel.Code))
+            if (!string.IsNullOrEmpty(searchModel.Code))
             {
                 query = query.Where(x => x.Code.Contains(searchModel.Code));
             }

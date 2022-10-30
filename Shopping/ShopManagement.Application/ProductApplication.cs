@@ -55,7 +55,7 @@ namespace ShopManagement.Application
             var Operation = new OperationResult();
             var product = _productRepository.Get(id);
             if (product == null) return Operation.Failed(ApplicationMessages.RecordNotFound);
-            product.notInStuck();
+            product.InStuck();
             _productRepository.Savechanges();
             return Operation.succedded();
         }
@@ -65,7 +65,7 @@ namespace ShopManagement.Application
             var Operation = new OperationResult();
             var product=_productRepository.Get(id);
             if (product == null) return Operation.Failed(ApplicationMessages.RecordNotFound);
-            product.InStuck();
+            product.notInStuck();
             _productRepository.Savechanges();
             return Operation.succedded();
         }
