@@ -1,4 +1,5 @@
 ﻿using FrameWork.Domain;
+using ShopManagement.Domain.ProductAgg;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,7 @@ namespace ShopManagement.Domain.ProductPictureAgg
     public class ProductPicture:EntityBase
     {
         public long ProductId { get; private set; }
+        public Product Product { get; private set; }
         public string Picture { get;private set; }
         public string  PictureAlt { get;private set; }
         public string PictureTitle { get;private set; }

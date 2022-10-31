@@ -50,6 +50,11 @@ namespace ShopManagement.Application
             return _productRepository.GetDetails(Id);
         }
 
+        public List<ProductViewModel> GetProducts()
+        {
+            return _productRepository.GetProduct();
+        }
+
         public OperationResult InStuck(long id)
         {
             var Operation = new OperationResult();
